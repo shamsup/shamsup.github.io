@@ -16,7 +16,10 @@ timezone: America/Los_Angeles
 
 title: Alex Mitchell # the main title
 
-tagline: Software Developer. Currently Technology Architect @ Nourish & Sow # it will display as the sub-title
+tagline: >-
+  Technology Architect @ Nourish & Sow<br /><br />
+  I am a versatile full stack software developer with strong foundations on the web. I am continuously evaluating new technologies and tools to improve my craft, and I am always looking for opportunities to learn and grow. I am currently exploring the capabilities of Generative AI to streamline business processes.
+ # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A full stack software developer with experience in software architecture, system design, and AWS. Languages: JavaScript, TypeScript, HTML, CSS. Technology: AWS, Serverless, Node.js, React, NoSQL, SQL.
