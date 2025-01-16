@@ -6,6 +6,8 @@ description: Use all the features of the Cognito API from Node.js by calculating
 # tags: [aws, cognito, nodejs, javascript]
 ---
 
+_Originally published on June 30, 2022 to [dev.to](https://dev.to/shamsup/creating-the-secret-hash-for-aws-cognito-in-nodejs-50f7)._
+
 While Amplify and the Cognito client libraries don't support user pools with a client secret, this is only to ensure that the client secret isn't exposed in the browser. However, this doesn't mean that you can't use the full Cognito API from Node.js.
 
 Recently I was attempting to use the Cognito API from a Node.js Lambda function to customize our signup flow, but kept getting the error `SecretHash does not match for the client` when trying to sign up users. Some digging led me to the [Cognito documentation](https://docs.aws.amazon.com/cognito/latest/developerguide/signing-up-users-in-your-app.html#cognito-user-pools-computing-secret-hash), which contains some example code in Java, but otherwise just some pseudo-code to go off of for generating the secret hash:
