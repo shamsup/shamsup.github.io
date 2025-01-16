@@ -3,8 +3,41 @@ title: "PSA: Lambda@Edge isn't a quick win"
 # author: shamsup
 date: 2025-01-16 12:38:00 -0800
 description: Do the benefits outweigh the complexity for you?
-# tags: [aws, edge, cloud]
+tags: [aws, edge, cloud]
 ---
+
+<style type="text/css">
+.text-right {
+  text-align: right;
+}
+.text-center {
+  text-align: center;
+}
+.text-left {
+  text-align: left;
+}
+
+.success {
+  color: var(--bs-success);
+}
+.danger {
+  color: var(--bs-danger);
+}
+
+figure figcaption {
+  border: solid var(--blockquote-border-color);
+  border-width: 0 0 0 2px;
+  padding-left: 1rem;
+  color: var(--blockquote-text-color);
+  margin-top: 0.5rem;
+}
+
+figure > p,
+figure > .table-wrapper,
+figure > img {
+  margin-bottom: 0;
+}
+</style>
 
 _Originally published on November 14, 2023 to [dev.to](https://dev.to/shamsup/psa-lambdaedge-isnt-a-quick-win-3252)._
 

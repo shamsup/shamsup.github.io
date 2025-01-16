@@ -3,7 +3,7 @@ title: Calculating the Secret Hash for AWS Cognito in Node.js
 # author: shamsup
 date: 2024-08-09 14:52:00 -0700
 description: Use all the features of the Cognito API from Node.js by calculating the secret hash for your user pool.
-# tags: [aws, cognito, nodejs, javascript]
+tags: [aws, cognito, nodejs, javascript]
 ---
 
 _Originally published on June 30, 2022 to [dev.to](https://dev.to/shamsup/creating-the-secret-hash-for-aws-cognito-in-nodejs-50f7)._
