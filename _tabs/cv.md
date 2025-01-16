@@ -12,6 +12,10 @@ ___ -->
 
 # Alex Mitchell - Software Engineer
 
+I'm a full-stack developer with 8 years of professional experience, primarily in Amazon Web Services, TypeScript, Node.js, and React, although I've worked with many more technologies than that. First a hobby, I've been programming since 2007. Feeling the direct impact my work has on end-users of a product is my primary driver. I am a self manager, and I enjoy being user-facing and driving product direction. Ask me about my dogs!
+
+---
+
 ## Skills
 
 - **Technology:** Amazon Web Services, TypeScript, JavaScript, Node.js, React, Git, Generative AI (<abbr title="retrieval-augmented generation" class="initialism">RAG</abbr>), SQL/Relational Databases, NoSQL Databases (DynamoDB), Infrastructure as Code, DevOps, Continuous Integration/Continuous Deployment (CI/CD)
